@@ -1,0 +1,67 @@
+#main{
+    font-size: 24px;
+    text-align: center;
+}
+
+.date{
+    background: lightblue;
+    color: white;
+    font-size: 1.5rem;
+    display: flex;
+}
+
+.date_goal{
+    padding-left: 40%;
+}
+
+.container{
+    display: inline-flex;
+
+}
+
+.diary{
+    min-width: 200px;
+}
+
+.diary_title{
+    font-family: 'Font Awesome 5 Free';
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    background: #0075a9;
+}
+
+
+.diary_content{
+    background-color: aqua;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.graph{
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.graph_title{
+    font-family: 'Font Awesome 5 Free';
+    font-size: 1.8rem;
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    background: #0075a9;
+    padding: 0.5em 1em;
+
+}
+
+
+.news{
+    min-width: 200px;
+
+}
+
+
+.news_title{
+    font-family: 'Font Awesome 5 Free';
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    background: #0075a9;
+}
